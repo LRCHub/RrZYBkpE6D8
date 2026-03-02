@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "UPDATE（feat. Deu、Ito、Moto）",
+  "base_artist": "WurtS",
+  "createdAt": "2026-03-02T10:37:27.858522Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UPDATE (feat. Deu, Ito, Moto)",
+      "artist": "WurtS",
+      "has_synced": false,
+      "path": "select/pl_01_UPDATE_(feat._Deu,_Ito,_Moto)_WurtS.txt"
+    }
+  ]
+}
